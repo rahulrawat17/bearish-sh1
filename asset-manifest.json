@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bearish-sh1/static/css/main.42240654.css",
+    "main.js": "/bearish-sh1/static/js/main.bc576742.js",
+    "static/js/787.d6dd6337.chunk.js": "/bearish-sh1/static/js/787.d6dd6337.chunk.js",
+    "static/media/Light 1px-group.svg": "/bearish-sh1/static/media/Light 1px-group.bbfbc4ac6f29da0253350f38c2b4c1b1.svg",
+    "static/media/Light 1px-message.svg": "/bearish-sh1/static/media/Light 1px-message.995cf125ccace2347d96aa40a91f5c19.svg",
+    "static/media/Light 1px-video_recorder.svg": "/bearish-sh1/static/media/Light 1px-video_recorder.55304edd021fcaaeec25bd0e8e257554.svg",
+    "static/media/Light 1px-notification.svg": "/bearish-sh1/static/media/Light 1px-notification.70aa53b796d302a7b5eec4b1ebd00d6b.svg",
+    "static/media/Light 1px-home.svg": "/bearish-sh1/static/media/Light 1px-home.bab53300016aae37861e4d937b0b8657.svg",
+    "static/media/Light 1px-chevron_double_backward.svg": "/bearish-sh1/static/media/Light 1px-chevron_double_backward.395fedc18dc6328984637cb0d477a659.svg",
+    "static/media/Light 1px-person.svg": "/bearish-sh1/static/media/Light 1px-person.d6051204c55f7b6a39b9a19d2eea2456.svg",
+    "static/media/Light 1px-calendar.svg": "/bearish-sh1/static/media/Light 1px-calendar.9328d53306ecfeda171ab2439fd0a4e2.svg",
+    "static/media/Light 1px-add_circled.svg": "/bearish-sh1/static/media/Light 1px-add_circled.4ec07ecf355f6c7c6cbec9879f2602de.svg",
+    "static/media/Light 1px-mail.svg": "/bearish-sh1/static/media/Light 1px-mail.42aec8e4668cebf8e3d4a11ed8036263.svg",
+    "static/media/Group 2306.svg": "/bearish-sh1/static/media/Group 2306.099515764d3fd677ffa0d96b78da6576.svg",
+    "index.html": "/bearish-sh1/index.html",
+    "static/media/Light 1px-chevron_down.svg": "/bearish-sh1/static/media/Light 1px-chevron_down.3690fd913ffe31c3b88ac41917955df3.svg",
+    "static/media/Light 1px-chevron_down-1.svg": "/bearish-sh1/static/media/Light 1px-chevron_down-1.dedb06577e29ad68bc6c020153c657f2.svg",
+    "static/media/Light 1px-search.svg": "/bearish-sh1/static/media/Light 1px-search.2e9f1fd8fc65d599ab7d6ab918d8dd2b.svg",
+    "main.42240654.css.map": "/bearish-sh1/static/css/main.42240654.css.map",
+    "main.bc576742.js.map": "/bearish-sh1/static/js/main.bc576742.js.map",
+    "787.d6dd6337.chunk.js.map": "/bearish-sh1/static/js/787.d6dd6337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42240654.css",
+    "static/js/main.bc576742.js"
+  ]
+}
