@@ -4,23 +4,12 @@ import { Dashboard } from './components/Dashboard'
 import React, { Fragment } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
-function App () {
+function App() {
   return (
     <div className='App'>
-      <BrowserRouter>
-        <Routes>
-          <Route
-            path=''
-            element={
-              <Fragment>
-                <NavBar />
-                <Header />
-                <Dashboard />
-              </Fragment>
-            }
-          />
-        </Routes>
-      </BrowserRouter>
+      <NavBar />
+      <Header />
+      <Dashboard />
     </div>
   )
 }
