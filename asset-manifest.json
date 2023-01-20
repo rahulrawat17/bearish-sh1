@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bearish-sh1/static/css/main.42240654.css",
-    "main.js": "/bearish-sh1/static/js/main.bc576742.js",
+    "main.js": "/bearish-sh1/static/js/main.05d5e84c.js",
     "static/js/787.d6dd6337.chunk.js": "/bearish-sh1/static/js/787.d6dd6337.chunk.js",
     "static/media/Light 1px-group.svg": "/bearish-sh1/static/media/Light 1px-group.bbfbc4ac6f29da0253350f38c2b4c1b1.svg",
     "static/media/Light 1px-message.svg": "/bearish-sh1/static/media/Light 1px-message.995cf125ccace2347d96aa40a91f5c19.svg",
@@ -19,11 +19,11 @@
     "static/media/Light 1px-chevron_down-1.svg": "/bearish-sh1/static/media/Light 1px-chevron_down-1.dedb06577e29ad68bc6c020153c657f2.svg",
     "static/media/Light 1px-search.svg": "/bearish-sh1/static/media/Light 1px-search.2e9f1fd8fc65d599ab7d6ab918d8dd2b.svg",
     "main.42240654.css.map": "/bearish-sh1/static/css/main.42240654.css.map",
-    "main.bc576742.js.map": "/bearish-sh1/static/js/main.bc576742.js.map",
+    "main.05d5e84c.js.map": "/bearish-sh1/static/js/main.05d5e84c.js.map",
     "787.d6dd6337.chunk.js.map": "/bearish-sh1/static/js/787.d6dd6337.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42240654.css",
-    "static/js/main.bc576742.js"
+    "static/js/main.05d5e84c.js"
   ]
 }
